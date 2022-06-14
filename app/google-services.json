@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24382593902",
+    "project_id": "smart-helmet-v2",
+    "storage_bucket": "smart-helmet-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24382593902:android:e68be3931aff6c06d73f7f",
+        "android_client_info": {
+          "package_name": "com.ankit.smarthelmetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24382593902-lpkk37amdk8fi8k0at43l3c3vh7avof1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1oxX5ic71vhvCle7GQLOwXOJ-kGPQquo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24382593902-lpkk37amdk8fi8k0at43l3c3vh7avof1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

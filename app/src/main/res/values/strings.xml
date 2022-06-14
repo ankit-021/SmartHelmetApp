@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Helmet App</string>
+    <string name="smart_helmet">Smart Helmet</string>
+    <string name="turn_on">Turn On</string>
+    <string name="connect">Connect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Set_cnct">Import Contact</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="selected_name">Selected name</string>
+    <string name="alcohol">ALCOHOL</string>
+    <string name="chin_strap">CHIN STRAP</string>
+    <string name="helmet">HELMET</string>
+    <string name="safe_to_drive">Safe To Drive</string>
+    <string name="about">ABOUT</string>
+    <string name="exit">EXIT</string>
+    <string name="test">TEST</string>
+</resources>
